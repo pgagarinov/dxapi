@@ -1,6 +1,6 @@
 ---
 category: Applications
-path: '/events[.format]'
+apipath: '/events[.format]'
 title: 'Query Events'
 type: 'GET'
 

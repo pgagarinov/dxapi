@@ -1,6 +1,6 @@
 ---
 category: Applications
-path: '/laboratories[.format]'
+apipath: '/laboratories[.format]'
 title: 'Query Laboratories'
 type: 'GET'
 

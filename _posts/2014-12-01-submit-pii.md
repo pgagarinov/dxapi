@@ -1,6 +1,6 @@
 ---
 category: Devices
-path: '/events/[event_uuid]/pii'
+apipath: '/events/[event_uuid]/pii'
 title: 'Submit PII'
 type: 'PUT'
 

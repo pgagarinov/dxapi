@@ -1,6 +1,6 @@
 ---
 category: Applications
-path: '/events/[event_uuid]/pii'
+apipath: '/events/[event_uuid]/pii'
 title: 'Retrieve PII'
 type: 'GET'
 

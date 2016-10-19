@@ -1,6 +1,6 @@
 ---
 category: Devices
-path: '/devices/[device_uuid]/events'
+apipath: '/devices/[device_uuid]/events'
 title: 'Submit events'
 type: 'POST'
 

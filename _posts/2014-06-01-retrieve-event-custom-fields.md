@@ -1,6 +1,6 @@
 ---
 category: Applications
-path: '/events/[event_uuid]/custom_fields'
+apipath: '/events/[event_uuid]/custom_fields'
 title: 'Retrieve Custom Fields'
 type: 'GET'
 
