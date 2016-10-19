@@ -3,5 +3,5 @@ exclude: ['README.markdown']
 permalink: ':title'
 highlighter: rouge
 safe: false
-title: 'DXAPI'
+title: 'PgMex'
 markdown: kramdown
