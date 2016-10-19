@@ -2,7 +2,7 @@
 category: Resources
 title: 'User Defined Custom Fields'
 
-layout: nil
+layout: null
 ---
 
 `{

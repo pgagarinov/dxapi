@@ -4,7 +4,7 @@ path: '/laboratories[.format]'
 title: 'Query Laboratories'
 type: 'GET'
 
-layout: nil
+layout: null
 ---
 
 Returns a list of Laboratories

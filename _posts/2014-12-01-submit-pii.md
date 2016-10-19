@@ -4,7 +4,7 @@ path: '/events/[event_uuid]/pii'
 title: 'Submit PII'
 type: 'PUT'
 
-layout: nil
+layout: null
 ---
 
 Allows submission of Personal Identifiable Information into a previously submitted event.

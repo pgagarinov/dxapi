@@ -4,7 +4,7 @@ path: '/devices/[device_uuid]/events'
 title: 'Submit events'
 type: 'POST'
 
-layout: nil
+layout: null
 ---
 
 Allows devices to submit events.

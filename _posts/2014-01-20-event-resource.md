@@ -2,7 +2,7 @@
 category: Resources
 title: 'Event'
 
-layout: nil
+layout: null
 ---
 
 The Event resource contains the fields related to the event reported by the device. No personal identifiable information is contained in this resource.

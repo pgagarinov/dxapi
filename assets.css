@@ -672,9 +672,10 @@ body {
 }
 
 .logo {
-  background: url(lib/assets/img/cdx_logo.png) no-repeat center #ffffff;
-  height: 40px;
-  padding: 24px 0;
+  background: url(lib/assets/img/pgmex_logo.png) no-repeat center #ffffff;
+  height: 90px;
+  padding: 10px 0px;
+  background-size: contain;
 }
 
 h1 {

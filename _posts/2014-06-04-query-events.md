@@ -4,7 +4,7 @@ path: '/events[.format]'
 title: 'Query Events'
 type: 'GET'
 
-layout: nil
+layout: null
 ---
 
 Returns a list of Events

@@ -4,7 +4,7 @@ path: '/events/[event_uuid]/pii'
 title: 'Retrieve PII'
 type: 'GET'
 
-layout: nil
+layout: null
 ---
 
 Retrieves the private patient information for a given event.

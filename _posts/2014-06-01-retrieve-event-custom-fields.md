@@ -4,7 +4,7 @@ path: '/events/[event_uuid]/custom_fields'
 title: 'Retrieve Custom Fields'
 type: 'GET'
 
-layout: nil
+layout: null
 ---
 
 Retrieves the not indexed user defined custom fields for a given event.
