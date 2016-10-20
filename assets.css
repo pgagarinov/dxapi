@@ -590,11 +590,11 @@ code {
 }
 
 /* GET */
-#content article.GET a h2 code {
+#content article.CONNECT.FINISH a h2 code {
   color: #119bdf;
 }
 
-#content article.GET a h2 code b {
+#content article.CONNECT.FINISH a h2 code b {
   background: #119bdf;
 }
 

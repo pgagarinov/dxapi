@@ -1,6 +1,6 @@
 ---
 category: Database Connection Control Functions
-apipath: '/events/[event_uuid]/pii'
+apipath: 'exec(''connect'',...)'
 title: 'CONNECT opens a new database connection'
 type: 'CONNECT'
 

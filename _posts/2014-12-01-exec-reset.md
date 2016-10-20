@@ -1,6 +1,6 @@
 ---
 category: Database Connection Control Functions
-apipath: '/events/[event_uuid]/pii'
+apipath: 'exec(''reset'',...)'
 title: 'RESET Resets the communication channel to the server'
 type: 'RESET'
 
