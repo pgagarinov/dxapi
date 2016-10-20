@@ -1,7 +1,7 @@
 ---
 category: Working with parameters
 apipath: '/exec/paramclear'
-title: 'PARAMCLEAR Releases all resources being used by a PGparam object'
+title: 'Release all resources being used by a PGparam object'
 type: 'PARAMCLEAR'
 
 layout: null

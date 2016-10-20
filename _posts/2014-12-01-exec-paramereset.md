@@ -1,7 +1,7 @@
 ---
 category: Working with parameters
 apipath: '/exec/paramreset'
-title: 'PARAMRESET Clears out any previously put parameters'
+title: 'Clear out any previously put parameters'
 type: 'PARAMRESET'
 
 layout: null

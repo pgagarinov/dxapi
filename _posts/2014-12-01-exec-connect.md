@@ -1,7 +1,7 @@
 ---
 category: Database Connection Control Functions
 apipath: 'exec(''connect'',...)'
-title: 'CONNECT opens a new database connection'
+title: 'Open a new database connection'
 type: 'CONNECT'
 
 layout: null

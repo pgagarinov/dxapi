@@ -1,7 +1,7 @@
 ---
 category: Working with parameters
 apipath: '/exec/paramecreate'
-title: 'PARAMCREATE Creates a new PGparam object for storing command parameters'
+title: 'Create a new PGparam object for storing command parameters'
 type: 'PARAMCREATE'
 
 layout: null

@@ -1,7 +1,7 @@
 ---
 category: Database Connection Control Functions
 apipath: 'exec(''reset'',...)'
-title: 'RESET Resets the communication channel to the server'
+title: 'Reset the communication channel to the server'
 type: 'RESET'
 
 layout: null

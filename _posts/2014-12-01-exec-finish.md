@@ -1,7 +1,7 @@
 ---
 category: Database Connection Control Functions
 apipath: '/exec/finish'
-title: 'FINISH Closes the connection to the server. Also frees memory used by the'
+title: 'Close the connection to the server'
 type: 'FINISH'
 
 layout: null

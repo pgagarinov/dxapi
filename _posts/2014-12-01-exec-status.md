@@ -1,7 +1,7 @@
 ---
 category: Connection Status Functions
 apipath: '/exec/status'
-title: 'STATUS Returns the status of the connection'
+title: 'Return the status of the connection'
 type: 'STATUS'
 
 layout: null

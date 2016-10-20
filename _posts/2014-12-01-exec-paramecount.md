@@ -1,7 +1,7 @@
 ---
 category: Working with parameters
 apipath: '/exec/paramcount'
-title: 'PARAMCOUNT Returns the number of parameters in a PGparam object'
+title: 'Return the number of parameters in a PGparam object'
 type: 'PARAMCOUNT'
 
 layout: null

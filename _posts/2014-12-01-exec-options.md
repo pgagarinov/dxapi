@@ -1,7 +1,7 @@
 ---
 category: Connection Status Functions
 apipath: '/exec/options'
-title: 'OPTIONS Returns the command-line options passed in the connection request'
+title: 'Return the command-line options passed in the connection request'
 type: 'OPTIONS'
 
 layout: null
