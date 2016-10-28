@@ -672,8 +672,11 @@ body {
 }
 
 .logo {
-  background: url(lib/assets/img/pgmex_logo.png) no-repeat center #ffffff;
-  height: 90px;
+  background-image: url(lib/assets/img/pgmex_logo.png), url(lib/assets/img/allied_logo.jpg);
+  background-repeat: no-repeat, no-repeat;	
+  background-position: bottom, top;
+  background-color: #ffffff, #ffffff;
+  height: 170px;
   padding: 10px 0px;
   background-size: contain;
 }
