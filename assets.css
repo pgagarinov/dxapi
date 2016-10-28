@@ -464,7 +464,7 @@ code {
 }
 
 #sidebar h2 {
-  color: #888;
+  color: #6495ED;
   font-size: 14px;
   margin: 0;
 }
@@ -682,18 +682,21 @@ h1 {
   font-size: 2.6em;
   font-weight: 300;
 }
-
+/*
 #sidebar ul ul {
   padding-left: 0;
   margin-bottom: 12px;
 }
+*/
 
 #sidebar h2 {
-  font-size: 12px;
   font-weight: bold !important;
-  text-transform: uppercase;
-}
 
+}
+/*
+  font-size: 12px;
+  text-transform: uppercase;
+*/
 #content a h2 code b {
   color: #191919;
 }
